@@ -1,0 +1,35 @@
+{
+  "name": "market",
+  "version": "1.0.0",
+  "description": "a mern stack shop system",
+  "main": "index.js",
+  "repository": "https://github.com/hvlmnns/react-express-kit",
+  "author": "shvlmnns",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "app-module-path": "^2.2.0",
+    "async": "^2.5.0",
+    "body-parser": "^1.18.2",
+    "connect-mongo": "^1.3.2",
+    "express": "^4.16.1",
+    "express-less": "^0.1.0",
+    "express-react-views": "^0.10.2",
+    "express-session": "^1.15.6",
+    "forever-monitor": "^1.7.1",
+    "less": "^2.7.2",
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.11.14",
+    "node-jsx": "^0.13.3",
+    "nodemon": "^1.12.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13"
+  }
+}
